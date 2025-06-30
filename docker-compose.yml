@@ -1,0 +1,14 @@
+services:
+  mulmocast:
+    build: .
+    image: mulmocast-cli:latest
+    container_name: mulmocast-cli
+    env_file:
+      - .env
+    volumes:
+      - ./output:/app/output
+      - ./scripts:/app/scripts
+    working_dir: /app
+    stdin_open: true
+    tty: true
+    command: /bin/bash

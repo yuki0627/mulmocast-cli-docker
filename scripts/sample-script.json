@@ -1,0 +1,71 @@
+{
+  "$mulmocast": {
+    "version": "1.0"
+  },
+  "title": "SpaceX: Changing the Future of Space Travel",
+  "lang": "en",
+  "references": [
+    {
+      "url": "https://www.spacex.com/vehicles/falcon-9/",
+      "title": "SpaceX Vehicles Overview",
+      "type": "article"
+    },
+    {
+      "url": "https://x.com/snakajima/status/1930781602935968142",
+      "title": "Sample output",
+      "type": "article"
+    }
+  ],
+  "movieParams": {
+    "provider": "google"
+  },
+  "beats": [
+    {
+      "text": "What if a private company could take humanity to Mars? SpaceX, founded by Elon Musk, is revolutionizing the way we think about space travel.",
+      "imagePrompt": "A futuristic SpaceX rocket launching into a starry sky, crowds watching in awe.",
+      "moviePrompt": "A cinematic shot of a SpaceX rocket lifting off with dramatic lighting, people cheering in the foreground."
+    },
+    {
+      "text": "SpaceX started in 2002 with a big dream—making space affordable and accessible for everyone.",
+      "imagePrompt": "Young Elon Musk in a lab surrounded by rocket models and blueprints, a sense of ambition in the air.",
+      "moviePrompt": "A movie scene showing Elon Musk sketching rocket designs, transitioning to early SpaceX engineers working together."
+    },
+    {
+      "text": "After several failures, SpaceX became the first private company to launch a liquid-fueled rocket into orbit with Falcon 1 in 2008.",
+      "imagePrompt": "Falcon 1 rocket launching over an island at sunset, flames and smoke trailing dramatically.",
+      "moviePrompt": "A dramatic launch sequence of Falcon 1, slow motion flames and a backdrop of the setting sun."
+    },
+    {
+      "text": "The breakthrough: In 2015, Falcon 9 successfully landed its first stage booster upright, proving reusable rockets were possible.",
+      "imagePrompt": "Falcon 9 booster landing vertically on a floating drone ship at sea, ocean spray all around.",
+      "moviePrompt": "A close-up of a rocket stage gently touching down on a drone ship, waves crashing nearby."
+    },
+    {
+      "text": "In 2020, SpaceX made history again—becoming the first private company to launch astronauts to the ISS with Crew Dragon.",
+      "imagePrompt": "Crew Dragon spacecraft docking with the International Space Station, astronauts visible through the window.",
+      "moviePrompt": "A view from inside Crew Dragon as it approaches and connects with the ISS, astronauts exchanging excited looks."
+    },
+    {
+      "text": "SpaceX’s Starlink project now brings high-speed internet across the globe with thousands of satellites in orbit.",
+      "imagePrompt": "A glowing network of Starlink satellites encircling Earth, connecting continents with shimmering lines.",
+      "moviePrompt": "A cinematic animation of satellites orbiting Earth, beams of light connecting remote villages and cities."
+    },
+    {
+      "text": "Next up: Starship—a fully reusable spacecraft aiming for the Moon, Mars, and beyond.",
+      "imagePrompt": "Starship soaring past the Moon toward Mars, the red planet shining in the distance.",
+      "moviePrompt": "A majestic shot of Starship leaving lunar orbit, Mars coming into view on the cosmic horizon."
+    },
+    {
+      "text": "SpaceX isn’t just changing how we launch rockets—it’s changing humanity’s future in space.",
+      "imagePrompt": "A group of diverse people looking up at a rocket launch, faces lit by the glow, symbolizing hope and exploration.",
+      "moviePrompt": "A slow pan over people gazing at a rocket soaring skyward, music swelling, with text: 'Our Future Begins Now.'"
+    }
+  ],
+  "canvasSize": {
+    "width": 720,
+    "height": 1280
+  },
+  "imageParams": {
+    "style": "Photo realistic, cinematic."
+  }
+}
