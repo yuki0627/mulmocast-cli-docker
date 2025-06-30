@@ -18,13 +18,13 @@ cp .env.example .env
 
 3. **Build and run the container**
 ```bash
-docker-compose build
-docker-compose up -d
+docker compose build
+docker compose up -d
 ```
 
 4. **Enter the container**
 ```bash
-docker-compose exec mulmocast bash
+docker compose exec mulmocast bash
 ```
 
 ## Usage Examples
